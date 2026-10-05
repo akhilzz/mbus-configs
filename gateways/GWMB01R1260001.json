@@ -1,0 +1,27 @@
+[
+  {
+    "serial": "200134",
+    "address": 6,
+    "description": "Meter 200134"
+  },
+  {
+    "serial": "200142",
+    "address": 14,
+    "description": "Meter 200142"
+  },
+  {
+    "serial": "200145",
+    "address": 17,
+    "description": "Meter 200145"
+  },
+  {
+    "serial": "200148",
+    "address": 20,
+    "description": "Meter 200148"
+  },
+  {
+    "serial": "200143",
+    "address": 33,
+    "description": "Meter 200143"
+  }
+]
