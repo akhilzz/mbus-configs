@@ -1,12 +1,12 @@
 [
   {
     "serial": "200134",
-    "address": 34,
+    "address": 3,
     "description": "Meter 200134"
   },
   {
     "serial": "200142",
-    "address": 42,
+    "address": 4,
     "description": "Meter 200142"
   },
   {
