@@ -1,12 +1,202 @@
 [
   {
-    "serial": "200134",
-    "address": 33,
-    "description": "Meter 200134"
+    "serial": "26100001",
+    "address": 1,
+    "description": "Flat 101 Water"
   },
   {
-    "serial": "200142",
-    "address": 41,
-    "description": "Meter 200142"
+    "serial": "26100006",
+    "address": 2,
+    "description": "Flat 102 Water"
+  },
+  {
+    "serial": "26100012",
+    "address": 3,
+    "description": "Flat 103 Water"
+  },
+  {
+    "serial": "26100025",
+    "address": 4,
+    "description": "Flat 104 Water"
+  },
+  {
+    "serial": "26100026",
+    "address": 5,
+    "description": "Flat 105 Water"
+  },
+  {
+    "serial": "26100031",
+    "address": 6,
+    "description": "Flat 106 Water"
+  },
+  {
+    "serial": "26100036",
+    "address": 7,
+    "description": "Flat 107 Water"
+  },
+  {
+    "serial": "26100046",
+    "address": 8,
+    "description": "Flat 108 Water"
+  },
+  {
+    "serial": "26100002",
+    "address": 9,
+    "description": "Flat 201 Water"
+  },
+  {
+    "serial": "26100007",
+    "address": 10,
+    "description": "Flat 202 Water"
+  },
+  {
+    "serial": "26100013",
+    "address": 11,
+    "description": "Flat 203 Water"
+  },
+  {
+    "serial": "26100021",
+    "address": 12,
+    "description": "Flat 204 Water"
+  },
+  {
+    "serial": "26100027",
+    "address": 13,
+    "description": "Flat 205 Water"
+  },
+  {
+    "serial": "26100032",
+    "address": 14,
+    "description": "Flat 206 Water"
+  },
+  {
+    "serial": "26100037",
+    "address": 15,
+    "description": "Flat 207 Water"
+  },
+  {
+    "serial": "26100045",
+    "address": 16,
+    "description": "Flat 208 Water"
+  },
+  {
+    "serial": "26100003",
+    "address": 17,
+    "description": "Flat 301 Water"
+  },
+  {
+    "serial": "26100008",
+    "address": 18,
+    "description": "Flat 302 Water"
+  },
+  {
+    "serial": "26100016",
+    "address": 19,
+    "description": "Flat 303 Water"
+  },
+  {
+    "serial": "26100022",
+    "address": 20,
+    "description": "Flat 304 Water"
+  },
+  {
+    "serial": "26100028",
+    "address": 21,
+    "description": "Flat 305 Water"
+  },
+  {
+    "serial": "26100033",
+    "address": 22,
+    "description": "Flat 306 Water"
+  },
+  {
+    "serial": "26100038",
+    "address": 23,
+    "description": "Flat 307 Water"
+  },
+  {
+    "serial": "26100044",
+    "address": 24,
+    "description": "Flat 308 Water"
+  },
+  {
+    "serial": "26100004",
+    "address": 25,
+    "description": "Flat 401 Water"
+  },
+  {
+    "serial": "26100009",
+    "address": 26,
+    "description": "Flat 402 Water"
+  },
+  {
+    "serial": "26100017",
+    "address": 27,
+    "description": "Flat 403 Water"
+  },
+  {
+    "serial": "26100023",
+    "address": 28,
+    "description": "Flat 404 Water"
+  },
+  {
+    "serial": "26100029",
+    "address": 29,
+    "description": "Flat 405 Water"
+  },
+  {
+    "serial": "26100031",
+    "address": 30,
+    "description": "Flat 406 Water"
+  },
+  {
+    "serial": "26100040",
+    "address": 31,
+    "description": "Flat 407 Water"
+  },
+  {
+    "serial": "26100043",
+    "address": 32,
+    "description": "Flat 408 Water"
+  },
+  {
+    "serial": "26100005",
+    "address": 33,
+    "description": "Flat 501 Water"
+  },
+  {
+    "serial": "26100011",
+    "address": 34,
+    "description": "Flat 502 Water"
+  },
+  {
+    "serial": "26100019",
+    "address": 35,
+    "description": "Flat 503 Water"
+  },
+  {
+    "serial": "26100024",
+    "address": 36,
+    "description": "Flat 504 Water"
+  },
+  {
+    "serial": "26100030",
+    "address": 37,
+    "description": "Flat 505 Water"
+  },
+  {
+    "serial": "26100035",
+    "address": 38,
+    "description": "Flat 506 Water"
+  },
+  {
+    "serial": "26100041",
+    "address": 39,
+    "description": "Flat 507 Water"
+  },
+  {
+    "serial": "26100042",
+    "address": 40,
+    "description": "Flat 508 Water"
   }
 ]
