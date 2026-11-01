@@ -20,7 +20,7 @@
     "description": "Flat 101 Wash Area"
   },
   {
-    "serial": "200133",
+    "serial": "26100096",
     "address": 5,
     "description": "Flat 302 Master Bath Room"
   },
@@ -30,7 +30,7 @@
     "description": "Flat 201 Guest Bath Room"
   },
   {
-    "serial": "200135",
+    "serial": "00200135",
     "address": 7,
     "description": "Flat 402 Master Bath Room"
   },
@@ -40,7 +40,7 @@
     "description": "Flat 201 Wash Area"
   },
   {
-    "serial": "200137",
+    "serial": "00200137",
     "address": 9,
     "description": "Flat 202 Guest Bath Room"
   },
@@ -70,14 +70,14 @@
     "description": "Flat 403 Wash Area"
   },
   {
-    "serial": "26100052",
+    "serial": "00200136",
     "address": 15,
     "description": "Flat 204 Master Bath Room"
   },
   {
-    "serial": "26100074",
+    "serial": "00200138",
     "address": 16,
-    "description": "Flat 301 Wash Area"
+    "description": "Flat 302 Guest Bath Room"
   },
   {
     "serial": "26100060",
@@ -85,12 +85,12 @@
     "description": "Flat 103 Guest Bath Room"
   },
   {
-    "serial": "200146",
+    "serial": "00200146",
     "address": 18,
     "description": "Flat 303 Guest Bath Room"
   },
   {
-    "serial": "200141",
+    "serial": "00200141",
     "address": 19,
     "description": "Flat 102 Master Bath Room"
   },
@@ -100,7 +100,7 @@
     "description": "Flat 202 Kitchen & Com. Washroom"
   },
   {
-    "serial": "26100057",
+    "serial": "00200149",
     "address": 21,
     "description": "Flat 304 Master Bath Room"
   },
@@ -130,7 +130,7 @@
     "description": "Flat 301 Master Bath Room"
   },
   {
-    "serial": "26100097",
+    "serial": "00200133",
     "address": 27,
     "description": "Flat 204 Guest Bath Room"
   },
@@ -175,7 +175,7 @@
     "description": "Flat 403 Guest Bath Room"
   },
   {
-    "serial": "26100092",
+    "serial": "00200147",
     "address": 36,
     "description": "Flat 304 Guest Bath Room"
   },
@@ -185,7 +185,7 @@
     "description": "Flat 303 Master Bath Room"
   },
   {
-    "serial": "200149",
+    "serial": "26100063",
     "address": 38,
     "description": "Flat 402 Guest Bath Room"
   },
@@ -210,7 +210,7 @@
     "description": "Flat 102 Kitchen & Com. Washroom"
   },
   {
-    "serial": "26100063",
+    "serial": "26100074",
     "address": 43,
     "description": "Flat 104 Master Bath Room"
   },
@@ -260,12 +260,12 @@
     "description": "Flat 104 Wash Area"
   },
   {
-    "serial": "200136",
+    "serial": "26100097",
     "address": 54,
     "description": "Flat 102 Guest Bath Room"
   },
   {
-    "serial": "200138",
+    "serial": "26100052",
     "address": 55,
     "description": "Flat 302 Guest Bath Room"
   },
@@ -275,17 +275,17 @@
     "description": "Flat 301 Guest Bath Room"
   },
   {
-    "serial": "200140",
+    "serial": "00200140",
     "address": 57,
     "description": "Flat 304 Kitchen & Com. Washroom"
   },
   {
-    "serial": "200147",
+    "serial": "26100092",
     "address": 58,
     "description": "Flat 202 Master Bath Room"
   },
   {
-    "serial": "26100096",
+    "serial": "26100057",
     "address": 59,
     "description": "Flat 201 Kitchen & Com. Washroom"
   },
@@ -310,8 +310,23 @@
     "description": "Flat 304 Wash Area"
   },
   {
-    "serial": "26100079",
+    "serial": "26100070",
     "address": 64,
+    "description": "Flat 202 Wash Area"
+  },
+  {
+    "serial": "26100079",
+    "address": 70,
     "description": "Flat 204 Kitchen & Com. Washroom"
+  },
+  {
+    "serial": "26100067",
+    "address": 71,
+    "description": "Common 1"
+  },
+  {
+    "serial": "26100125",
+    "address": 72,
+    "description": "Common 2"
   }
 ]
