@@ -1,1 +1,12 @@
-
+[
+  {
+    "serial": "26100134",
+    "address": 3,
+    "description": "Flat 101 Water"
+  },
+  {
+    "serial": "26100142",
+    "address": 4,
+    "description": "Flat 102 Water"
+  }
+]
