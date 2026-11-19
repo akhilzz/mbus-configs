@@ -8,8 +8,8 @@
     "serial": "26100111",
     "address": 2,
     "description": "Master Bath Room"
-  }
-   {
+  },
+  {
     "serial": "26100114",
     "address": 3,
     "description": "Kitchen & Com Bath & Child Bath"
@@ -18,7 +18,7 @@
     "serial": "26100119",
     "address": 4,
     "description": "Master Bath Room"
-  }
+  },
   {
     "serial": "26100107",
     "address": 5,
